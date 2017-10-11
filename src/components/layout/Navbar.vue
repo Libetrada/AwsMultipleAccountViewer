@@ -4,6 +4,6 @@
       | AwsMultipleAccountViewer
 </template>
 
-<style lang="sass">
-@import '~bulma/bulma.sass'
+<style lang="stylus">
+@import '~bulma/css/bulma.css'
 </style>
