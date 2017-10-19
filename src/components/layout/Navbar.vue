@@ -3,7 +3,3 @@
     .navbar-brand
       | AwsMultipleAccountViewer
 </template>
-
-<style lang="stylus">
-@import '~bulma/css/bulma.css'
-</style>
